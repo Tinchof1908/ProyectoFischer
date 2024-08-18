@@ -1,0 +1,151 @@
+body {
+    background-color: rgba(128, 128, 128, 0.322);
+    margin: 0%;
+}
+
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 5rem;
+    margin-top: 0%;
+    margin-left: 8rem;
+}
+
+#Header{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    text-align: left;
+    height: 3rem;
+    width: 100%;
+    background-color: wheat;
+}
+
+#Titulo {
+    font-family: "Caveat Brush", cursive;
+    font-weight: 400;
+    font-style: normal;
+   
+}
+
+#navegador ul {
+
+    list-style-type: none;
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 2%;
+    background-color: rgba(94, 75, 40, 0.781);
+}
+
+#navegador li {
+    display: inline;
+    text-align: center;
+    margin: 0 20px 0 0;
+    font-size: 22px;
+
+}
+
+#seccion {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 1.25rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#DescripcionCentral {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 6%;
+}
+
+#descripcion {
+    font-size: 1.25rem;
+    font-family: 'Courier New', Courier, monospace; 
+    font-weight: bolder;
+}
+
+#precio {
+    font-size: 1.25rem;
+    font-weight: bolder;
+}
+
+#FotoCentral {
+    width: 50%;
+    height: 20%;
+}
+
+#footerdiv{
+    background-color: wheat;
+    width: 100%;
+    height: 10rem;
+    text-align: left;
+    font-size: 2rem;
+    margin-top: 20%;
+}
+
+#foto {
+    gap: 5rem;
+    width: 10rem;
+    height: 10rem;
+}
+
+#footer {
+    background-color: bisque;
+    margin-top: 5%;
+}
+
+#InfoEmrpesa {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.DatosEmpresa {
+    font-size: 1.5rem;
+    padding-left:  1.5rem;
+}
+
+#ListaDatos li {
+    padding-top: 0.25rem;
+}
+
+#Facebook {
+    margin-left: 100%;
+    margin-top: 0%;
+    
+}
+
+.ImagenNosotos {
+    width:100%;
+    height: auto;
+}
+
+#TituloProductos {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 250%;
+    font-weight: bold;
+}
+
+#TituloOferta {
+    font-size: 125%;
+    font-family: 'Courier New', Courier, monospace; 
+    font-weight: bolder;
+}
+
+#PrecioOriginal {
+   text-decoration: line-through;
+   font-weight: bolder;
+   color: red;
+}
+
+#PrecioDecuento {
+    font-weight: bolder;
+}
+
+#Precios {
+    display: flex;
+    gap: 5rem;
+}
+
+#Lista {
+    border: 2px solid black;
+    padding: 10%;
+    
+}
